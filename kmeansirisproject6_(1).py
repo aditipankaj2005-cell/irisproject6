@@ -25,7 +25,7 @@ st.set_page_config(
 
 st.title("🌸 Iris Flower Clustering using K-Means")
 st.write("This project groups Iris flowers into 3 clusters using Petal Length and Petal Width."
-        "PROJECT made by Aditi Srivastava with roll no.240122155005)
+        "PROJECT made by Aditi Srivastava with roll no.240122155005")
 
 # ------------------ IMAGE ------------------
 try:

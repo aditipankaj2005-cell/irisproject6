@@ -29,7 +29,7 @@ st.write("This project groups Iris flowers into 3 clusters using Petal Length an
 
 # ------------------ IMAGE ------------------
 try:
-    st.image("iris(2).png", width=350)
+    st.image("iris.png", width=350)
 except:
     st.info("Iris flower image not found.")
 

@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1tA2T5_63jIez8fmKzfWT7rn5NhWtdxT7
 """
 
-!pip install streamlit
+!
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -24,7 +24,8 @@ st.set_page_config(
 )
 
 st.title("🌸 Iris Flower Clustering using K-Means")
-st.write("This project groups Iris flowers into 3 clusters using Petal Length and Petal Width.")
+st.write("This project groups Iris flowers into 3 clusters using Petal Length and Petal Width."
+        "PROJECT made by Aditi Srivastava with roll no.240122155005)
 
 # ------------------ IMAGE ------------------
 try:
